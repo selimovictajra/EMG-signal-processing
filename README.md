@@ -1,4 +1,4 @@
-#EMG signal processing
+# EMG signal processing
 
-#Author
+# Author
 Tajra Selimović
